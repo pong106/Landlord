@@ -14,7 +14,7 @@ A single database multi-tenancy package for Laravel & Lumen 5.2+.
 To get started, require this package:
 
 ```bash
-composer require hipsterjazzbo/landlord
+composer require pong106/landlord
 ```
 
 ### Laravel
