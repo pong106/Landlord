@@ -1,4 +1,4 @@
-# Landlord for Laravel & Lumen 5.2+
+# Landlord for Laravel & Lumen 5.2+. Supports Laravel 7.0.
 
 ![Landlord for Laravel & Lumen 5.2+](readme-header.jpg)
 
